@@ -1,0 +1,4 @@
+(executable
+ (public_name tree_phbs_set_bench)
+ (name main)
+ (libraries tree_phbs_set_bench))

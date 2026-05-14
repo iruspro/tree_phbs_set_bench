@@ -1,0 +1,5 @@
+pin-depends: [
+  [ "bentley_saxe_transform.dev" "git+https://github.com/iruspro/bentley_saxe_transform.git" ]
+  [ "phf.dev" "git+https://github.com/iruspro/phf.git" ]
+  [ "aa_tree.dev" "git+https://github.com/iruspro/aa_tree.git" ]
+]
