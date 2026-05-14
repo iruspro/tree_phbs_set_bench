@@ -1,4 +1,4 @@
 (executable
  (public_name tree_phbs_set_bench)
  (name main)
- (libraries tree_phbs_set_bench))
+ (libraries tree_phbs_set_bench aa_tree bentley_saxe_transform phf unix))
